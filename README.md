@@ -54,19 +54,29 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.11
+### آخر تحديث: v1.0.12
 
-**تحسينات الاستقرار وإصلاحات عامة طفيفة**
+**تحديث نظام إضافة السيارات وإدارة المودات الذكي**
 
-يقدم هذا التحديث تحسينات داخلية وإصلاحات طفيفة لتعزيز أداء وموثوقية أداة Code 3.
+يقدم هذا التحديث نظاماً ذكياً لإفلات وتثبيت السيارات، مع إصلاحات شاملة للفلترة وتعارضات الأزرار، وتحسينات عامة لدعم مودات مثل سرينات الشرطة السعودية وحزمة الشرطة السعودية.
+
+**جديد**
+
+- إضافة ميزة السحب والإفلات لملفات السيارات (ZIP أو RAR أو 7z أو dlc.rpf أو ملفات yft) لضبطها تلقائياً كـ Add-on أو Replace، وإنشاء ملف OIV جاهز للتثبيت بـ OpenIV مع ملف إزالة، وتثبيت ملف إضاءة ELS تلقائياً، ودعم Policing Redefined، وإدارة جميع السيارات عبر قائمة 'سياراتي' للتثبيت أو الإزالة في أي وقت.
+- إضافة روابط صفحات المودات وأسماء المطورين وأرقام النسخ وشرح مفصل لأكثر من 50 مود، وصححت وصف بعض المودات.
 
 **تحسينات**
 
-- تحسينات عامة على الأداء والاستقرار
+- قائمة الأزرار صارت تقرأ أزرار مودات أكثر: Policing Redefined (أزرار الدعم والتعامل مع الأشخاص)، PoliceSmartRadio، Add-On Vehicle Spawner، وRampage Trainer، وتقدر تغيرها من البرنامج.
+- تحسينات في حماية البرنامج وثباته.
+- تحسينات في حماية البرنامج وثباته.
+- تحسينات في حماية البرنامج وثباته.
 
 **إصلاحات**
 
-- إصلاح بعض الأخطاء والمشاكل البرمجية البسيطة
+- إصلاح مشكلة في تبويب النسخة العربية: لو اخترت تصنيف أو بحث في قسم الإضافات كانت بعض المودات العربية تختفي، الحين كل قسم فلاتره لحاله.
+- إصلاح البطاقات التي كانت تظهر بدون صور مثل سرينات الشرطة السعودية وحزمة الشرطة السعودية، لتظهر الصور الآن قبل عملية التنزيل.
+- إصلاح إيقاف كونسول ScriptHookVDotNet (زر F8) مع النسخ الجديدة من ScriptHookVDotNet، كان يطلع متوقف وهو شغال.
 
 </div>
 
@@ -134,19 +144,29 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.11
+### Latest update: v1.0.12
 
-**Stability Improvements and Minor Bug Fixes**
+**Smart Vehicle Addition and Mod Management Update**
 
-This update introduces minor under-the-hood improvements and bug fixes to enhance the performance and reliability of Code 3.
+This update introduces a smart drag-and-drop vehicle installation system, comprehensive filter and button conflict fixes, and enhanced support for mods like the Saudi Police Siren Pack and Saudi Police Pack.
+
+**New**
+
+- Added drag-and-drop support for car files (ZIP, RAR, 7z, dlc.rpf, or yft files) to automatically configure them as Add-on or Replace, generate an OpenIV-ready OIV package with an uninstallation file, install ELS lighting files automatically, support Policing Redefined, and manage all vehicles via the 'My Cars' menu for installation or removal at any time.
+- Added mod page links, developer names, version numbers, and detailed descriptions for over 50 mods, alongside correcting the descriptions of several mods.
 
 **Improvements**
 
-- General performance and stability improvements
+- The buttons menu now reads inputs for more mod keys including: Policing Redefined (support and pedestrian interaction keys), PoliceSmartRadio, Add-On Vehicle Spawner, and Rampage Trainer, with the ability to modify them directly from the app.
+- Applied advanced improvements to program security and stability.
+- Applied advanced improvements to program security and stability.
+- Applied advanced improvements to program security and stability.
 
 **Fixes**
 
-- Minor bug fixes throughout the installer
+- Fixed an issue in the Arabic version tab where certain Arabic mods disappeared when applying categories or searches within the expansions section; filters for each section are now independent.
+- Fixed cards that previously appeared without images (such as Saudi police sirens and the Saudi police pack); images now display even before downloading.
+- Fixed an issue regarding the status of the ScriptHookVDotNet console (F8 key) with newer versions of ScriptHookVDotNet, where it incorrectly appeared disabled despite functioning properly.
 
 <!-- LATEST_EN:END -->
 
