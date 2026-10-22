@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 / 11">
 <img src="https://img.shields.io/badge/Price-Free-E53935?style=flat-square" alt="مجاني">
 <a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<img src="https://komarev.com/ghpvc/?username=code3-download-Fal-studio&label=Visitors&color=1A6CF5&style=flat-square" alt="Visitors">
+<img src="https://hits.sh/github.com/FalDinho/code3-download.svg?label=Visitors&color=1a6cf5&style=flat-square" alt="Visitors">
 <a href="https://fal-studio.github.io/code3-download/"><img src="https://img.shields.io/badge/Website-fal--studio.github.io-121212?style=flat-square" alt="Website"></a>
 
 </div>
