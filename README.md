@@ -54,91 +54,43 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.13
+### آخر تحديث: v1.0.14
 
-**50 مود جديد و DLSS 5 وقسم الجرافيكس**
+**إطلاق التعريب الرسمي وإضافة SAPS OS وUltimate Backup**
 
-أضفنا 50 مود جديد، و DLSS 5 و DLSS لكروت RTX، وقسم جرافيكس فيه VisualV وإعدادات ReShade كثيرة، ومود Gunsmith لورشة الأسلحة.
+يجلب هذا التحديث تعريب لعبة GTA V رسميًا مع إضافات كبرى مثل SAPS OS وUltimate Backup وتحسينات واجهة المستخدم.
 
 **مودات جديدة**
 
-- **1803 Park Ranger Callouts**: يضيف بلاغات ومهام مخصصة لحراس الغابات والمتنزهات عبر مناطق سان أندرياس إلى LSPDFR.
-- **1803 Police Partner Plugin**: إضافة تتيح لك اصطحاب رفيق شرطي مرافق لك أثناء الدوريات في LSPDFR.
-- **686 Callouts**: حزمة بلاغات كبيرة: عصابات، وشرطي مصاب، وإرهاب، ومرافقة سجناء، وطلب دعم جوي
-- **Aces Photorealistic ReShade**: Preset واقعي للعبة الأصلية بدون مودات رسومية أخرى.
-- **APX Radio UI**: واجهة راديو احترافية للشرطة تتيح تفاعلاً واقعياً مع الأجهزة اللاسلكية داخل اللعبة.
-- **Arrest Manager**: نقل المساجين إلى السجن، والطبيب الشرعي، وسحب السيارات، واقتياد المشتبه بهم
-- **Assorted Callouts**: بلاغات متنوعة: سطو على بنك، مطاردات، طعن وغيرها
-- **Attempted Crime Callouts**: حزمة بلاغات جرائم: محاولات سطو وسرقة وغيرها
-- **Awesomekills Graphics**: إعداد رسوميات يجمع بين ENB و ReShade لتحسين الإضاءة والواقعية البصرية.
-- **Baton Window Action**: كسر نافذة السيارة المتوقفة بالعصا
-- **Beachfront Callouts**: إضافة مهمات وبلاغات جديدة خاصة بالساحل في لعبة GTA V ضمن نظام LSPDFR.
-- **BetterBackup**: إضافة تحسينات متقدمة لنظام الدعم والتعزيزات في لعبة LSPDFR.
-- **Callout Manager**: تشغيل البلاغات يدويًا والتحكم بتكرارها
-- **CalloutInterface**: واجهة تنظّم البلاغات وتفاصيلها
-- **ChillLSCallouts - Mega Pack!**: حزمة بلاغات ضخمة ومتنوعة للعبة LSPDFR لإضافة مهام إضافية وتفاعلية.
-- **Cryptic's Realistic PR Search Items**: آلاف الأغراض الواقعية لتفتيش الأشخاص والسيارات، وهي توسعة لـ Policing Redefined.
-- **Damage Tracker Framework**: مكتبة لتتبع الإصابات، يتطلبها Policing Redefined
-- **Deadly Weapons**: يجعل الأسلحة النارية أكثر خطورة على من يتعرض لها.
-- **DLSS (RTX 20 / 30)**: DLSS لكروت RTX 20 و 30: صورة أنقى وأداء أفضل داخل GTA V.
-- **DLSS 5 (RTX 40 / 50)**: DLSS 5 لكروت RTX 40 و 50: صورة أنقى وإطارات أكثر داخل GTA V.
-- **DynamicWeather**: مود طقس ديناميكي يغيّر الأحوال الجوية أثناء اللعب.
-- **Easy Release**: إطلاق المشتبه به المحتجز بضغطة زر واحدة، بدل الخروج من السيارة لفتح الباب الخلفي.
-- **ELS Light Sync**: يزامن أنماط أضواء الطوارئ في سيارتك مع سيارات الشرطة التي يتحكم فيها الذكاء الاصطناعي.
-- **Emergency Strobes - Now with Wig-Wag Lights!**: تومض المصابيح الأمامية أثناء تشغيل الصفارة.
-- **Everyday Callouts**: حزمة بلاغات يومية للدورية في الشوارع.
-- **Expanded Inventory**: نظام مخزون للعب الفردي يركز على الواقعية، ومستوحى من overextended_inventory في FiveM.
-- **ExternalPoliceComputer**: حاسوب شرطة خارجي تشغّله من أي جهاز على شبكة منزلك، كاللابتوب أو الهاتف.
-- **Fire Callouts**: بلاغات لقسم الإطفاء: حرائق المباني والحرائق في الأراضي المفتوحة وعمليات الإنقاذ.
-- **Forestry Callouts**: حزمة بلاغات تضعك في دور حارس الغابات، وتشمل مطاردات الدراجات الرباعية والحيوانات النافقة وهجمات الحيوانات.
-- **Fumes - Animated Persistent Fuel**: وقود دائم للمركبات مع رسوم متحركة، وتعبئة تمشي إليها بنفسك.
-- **GTAPatrols2026 HWYCallouts**: حزمة بلاغات تركز على دورية الطرق السريعة.
-- **Gunsmith**: ورشة أسلحة في كل مركز شرطة: ركّب القطع واحفظ تركيبة سلاحك
-- **Gunsmith**: ورشة أسلحة في كل مركز شرطة: ركّب القطع واحفظ تركيبة سلاحك
-- **Heli Assistance - Observer Mode, Customizable Searchlight, More Features**: مروحية تدور حول الهدف بدل التحليق الثابت، مع كشاف يتتبع المشتبه به ليلًا.
-- **Huncho's Reshade Presets**: 12 Preset لـ ReShade بألوان مختلفة، منها Economy الخفيف للأجهزة الضعيفة، ومعها مجلد الشيدرات كامل.
-- **Life Like ReShade Preset**: Preset واقعي ثقيل نسبيًا يركّز على الانعكاسات، مصمم مع QuantV.
-- **LSPD First Response**: مود الشرطة مع RAGE Plugin Hook
-- **LSPD First Response**: مود الشرطة مع RAGE Plugin Hook
-- **Optimized Reshade Presets**: Preset خفيف على الأداء جُرّب على أحوال الطقس والإضاءة المختلفة.
-- **Parking Enforcement**: إنفاذ مخالفات الوقوف: مسح اللوحات وإصدار المخالفات وسحب السيارات.
-- **Persistent Vehicles Mod**: يحفظ موقع السيارة وتعديلاتها وألوانها، ويعيدها إلى آخر مكان حفظته فيه إذا تحطمت.
-- **Photorealistic Reshade Preset**: Preset واقعي يحسّن الألوان والإضاءة والانعكاسات والتباين.
-- **PitTimerPlus**: يتتبع مدة المطاردة ويوضح متى يُسمح لك بطلب مناورة PIT عبر الراديو.
-- **Police Tape**: وضع تلقائي لشريط الشرطة والحواجز، مع التحكم في حركة المرور والمشاة.
-- **Policing Redefined**: إيقاف المشاة والسيارات، والتفتيش، والأدلة، وطلب الدعم. بديل حديث لـ StopThePed وUltimate Backup
-- **PR Interactive Evidence**: إضافة أدلة تفاعلية لـ Policing Redefined
-- **Pullover Plus - Extends LSPDFR's traffic stop system**: يوسّع نظام إيقاف المركبات في LSPDFR، فيمكنك إيقاف سيارة وأنت راجل، وتحديد مكان توقفها.
-- **Real Response Callouts - Standard Edition**: 20 بلاغًا شرطيًا مخصصًا بنتائج عشوائية ومواقع أعمال مخصصة.
-- **Real Response Callouts - Standard Edition**: 20 بلاغًا شرطيًا مخصصًا بنتائج عشوائية ومواقع أعمال مخصصة.
-- **Redux**: تعديل رسومي شامل يعيد تشكيل عالم لعبة GTA V لتحسين الرسوم، والفيزياء، والطقس.
-- **Reshade Ultra Presets**: Preset بإعدادات عالية، مصمم مع NaturalVision Evolved و QuantV.
-- **ResistPlus**: يجعل سلوك المشتبه بهم أثناء الاعتقال غير متوقع وأكثر واقعية.
-- **Response Backup**: يعرض عليك طلب الدعم وأنت متجه إلى البلاغ، ليذهب معك إلى الموقع.
-- **Roleplay+ Animation Menu**: قائمة تضم أكثر من 60 حركة يمكنك ربطها بأزرار
-- **Shared Libraries**: مكتبات مشتركة تحتاجها المودات المدفوعة المعرّبة، وتُنسخ بجانب GTA5.exe تلقائياً مع أي مود مدفوع.
-- **SuperCallouts**: حزمة بلاغات كبيرة بمواقف مختلفة
-- **Suspect Sense**: يجعل تفتيش المشتبه بهم أقل إحباطًا وأكثر واقعية.
-- **TalkativePlayer**: توسّع كلام شخصيتك أثناء الدورية، مع حوارات أكثر.
-- **Tow Truck Plus**: يرسل سيارة ونش إلى المكان لسحب المركبة بدل أن تختفي.
-- **TrafficCalls**: 15 بلاغًا مروريًا، تشمل الإيقاف المروري وبلاغات القيادة تحت تأثير الكحول والمطاردات والحوادث.
-- **UnitedCallouts**: حزمة بلاغات كبيرة: سرقات، ومخدرات، وسطو، والمزيد
-- **VisualV**: تعديل رسومي شامل يعيد تصميم تأثيرات الطقس والإضاءة والألوان بالكامل.
-- **Wilderness Callouts Remastered**: حزمة بلاغات للمناطق الريفية والبرية، مثل الصيد غير القانوني وهجوم الحيوانات وتحطم الطائرات.
-- **Yobbin Callouts**: حزمة بلاغات LSPDFR بسيناريوهات فريدة وواقعية.
+- **تعريب اللعبة**
+- **تكبير حجم الترجمة**
+- **Callout Briefing**
+- **GameplayFixesV**
+- **GTAV.ResourceAdjuster**
+- **Realistic Police Megaphone for LSPDFR**
+- **SAPS OS - In-Car MDT, CAD & Records**
+- **Ultimate Backup**: طلب الدعم والإسعاف والإطفاء والسحب
+- **Uninstaller vegetation reflection (Cayo Perico).oiv**: أداة لإلغاء تثبيت تعديلات انعكاسات النباتات الخاصة بمنطقة كايو بيريكو.
+- **Uninstaller vegetation reflection (San Andreas).oiv**: أداة لإلغاء تثبيت تعديلات انعكاسات النباتات الخاصة بخريطة سان أندرياس.
+- **Vegetation reflection (Cayo Perico) v2.3.oiv**: تعديل محسّن لانعكاسات النباتات والرسومات في جزيرة كايو بيريكو.
+- **Vegetation reflection (San Andreas) v2.3.oiv**: تعديل لتحسين جودة انعكاسات النباتات والبيئة في خريطة سان أندرياس.
+- **Zeep’s A.G.S. Gauge**
 
 **جديد**
 
-- أضفنا 50 مود جديد
-- DLSS 5 لكروت RTX 40 و50، وDLSS لكروت RTX 20 و30، لأداء أعلى وصورة أنعم
-- قسم الجرافيكس: VisualV و Awesomekills Graphics وإعدادات ReShade منها Huncho و Aces Photorealistic و Life Like و Photorealistic و Optimized و Reshade Ultra
-- يتثبت ReShade مع الإعدادات، والبرنامج يحط ملفات الإعدادات والشيدرات في مكانها
-- مود Gunsmith: ورشة أسلحة في كل مركز شرطة تركّب فيها القطع على سلاحك
+- الإطلاق الرسمي لنسخة Code 3 Premium العربية.
+- إضافة مودات جديدة مع تحسينات على المودات الحالية.
+
+**تحسينات**
+
+- إمكانية اختيار تصميم إطار اللابتوب والتابلت في حزمة pdComp Modern UI Pack من صور جاهزة.
+- ظهور الإضافات الاختيارية للمودات كأزرار تفعيل داخل البطاقة، مثل حركة البودكام في SAPS OS.
+- تقسيم تعريب اللعبة إلى بطاقتين مستقلتين للتعريب وتكبير الترجمة.
 
 **إصلاحات**
 
-- نافذة تثبيت ملفات OIV ما عادت تطلع بعد كل تثبيت إذا ثبّت الملف قبل
-- رسالة سجل التثبيت صارت تطلع بالعربي بدل الكود
+- إصلاح مشكلة عدم تثبيت ملفات ExternalPoliceComputer.
+- إصلاح ظهور أزرار وهمية في محرر الأزرار وتنبيهات خاطئة في فاحص الأزرار.
 
 </div>
 
@@ -206,91 +158,43 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.13
+### Latest update: v1.0.14
 
-**50 new mods, DLSS 5 and a Graphics section**
+**Official Arabic Localization, SAPS OS, and Ultimate Backup Launch**
 
-We added 50 new mods, DLSS 5 and DLSS for RTX cards, a Graphics section with VisualV and many ReShade presets, and the Gunsmith weapon bench mod.
+This update officially brings GTA V Arabic localization along with major additions like SAPS OS, Ultimate Backup, and user interface improvements.
 
 **New mods**
 
-- **1803 Park Ranger Callouts**: Adds wilderness and park ranger-themed callouts and patrol locations across San Andreas to LSPDFR.
-- **1803 Police Partner Plugin**: A plugin that allows you to have a police partner accompanying you during patrols in LSPDFR.
-- **686 Callouts**: Large callout pack: gangs, officer down, terrorism, prisoner escorts and air support
-- **Aces Photorealistic ReShade**: A photorealistic preset made for the base game, without other graphics mods.
-- **APX Radio UI**: A professional police radio interface mod providing realistic wireless device interactions in-game.
-- **Arrest Manager**: Prisoner transport, coroner, tow trucks and grabbing suspects
-- **Assorted Callouts**: Varied callouts: bank heist, pursuits, stabbings and more
-- **Attempted Crime Callouts**: Callout pack for attempted crimes: robberies, thefts and more
-- **Awesomekills Graphics**: A photorealistic graphics preset combining custom ENB and ReShade configurations.
-- **Baton Window Action**: Break a stopped car's window with your baton
-- **Beachfront Callouts**: Adds beach-themed callouts and audio for LSPDFR in GTA V.
-- **BetterBackup**: Enhances the backup and reinforcement system in LSPDFR with advanced options.
-- **Callout Manager**: Start callouts manually and control their frequency
-- **CalloutInterface**: Organizes callouts and their details
-- **ChillLSCallouts - Mega Pack!**: A massive and diverse callout pack for LSPDFR adding extra interactive police missions.
-- **Cryptic's Realistic PR Search Items**: Thousands of realistic items for pat-downs and vehicle searches, expanding Policing Redefined.
-- **Damage Tracker Framework**: Damage tracking library required by Policing Redefined
-- **Deadly Weapons**: Makes firearms more dangerous for anyone they hit.
-- **DLSS (RTX 20 / 30)**: DLSS for RTX 20 and 30 cards: a cleaner image and better performance in GTA V.
-- **DLSS 5 (RTX 40 / 50)**: DLSS 5 for RTX 40 and 50 cards: a cleaner image and more frames in GTA V.
-- **DynamicWeather**: A dynamic weather mod that changes conditions during play.
-- **Easy Release**: Release a detained suspect with one key press instead of getting out to open the rear door.
-- **ELS Light Sync**: Syncs your emergency lightbar patterns with AI police vehicles.
-- **Emergency Strobes - Now with Wig-Wag Lights!**: Makes your headlights flash while the siren is on.
-- **Everyday Callouts**: A pack of everyday patrol callouts.
-- **Expanded Inventory**: A singleplayer, immersion-focused inventory system inspired by FiveM's overextended_inventory.
-- **ExternalPoliceComputer**: An external police computer you run from any device on your home network, such as a laptop or phone.
-- **Fire Callouts**: Fire department callouts: structure fires, brush fires and extractions.
-- **Forestry Callouts**: A callout pack that lets you play as a park ranger, with ATV pursuits, dead animals and animal attacks.
-- **Fumes - Animated Persistent Fuel**: Persistent vehicle fuel with animations, and a refuel you walk to yourself.
-- **GTAPatrols2026 HWYCallouts**: A callout pack focused on highway patrol.
-- **Gunsmith**: A gunsmith bench at every police station: fit attachments and save your builds
-- **Gunsmith**: A gunsmith bench at every police station: fit attachments and save your builds
-- **Heli Assistance - Observer Mode, Customizable Searchlight, More Features**: A helicopter that orbits the target instead of hovering, with a spotlight that tracks the suspect at night.
-- **Huncho's Reshade Presets**: 12 ReShade presets in different looks, including the light Economy one for weaker PCs, with the full shader folder.
-- **Life Like ReShade Preset**: A fairly heavy realistic preset focused on reflections, made for QuantV.
-- **LSPD First Response**: The police mod with RAGE Plugin Hook
-- **LSPD First Response**: The police mod with RAGE Plugin Hook
-- **Optimized Reshade Presets**: A performance-friendly preset tested across weather and lighting.
-- **Parking Enforcement**: Parking enforcement with plate scanning, citations and vehicle towing.
-- **Persistent Vehicles Mod**: Saves a vehicle's position, mods and colors, and respawns it at its last saved spot if destroyed.
-- **Photorealistic Reshade Preset**: A realistic preset that improves colors, lighting, reflections and contrast.
-- **PitTimerPlus**: Tracks how long a pursuit has run and when you may radio in a PIT maneuver request.
-- **Police Tape**: Dynamic police tape and barrier placement with traffic and pedestrian control.
-- **Policing Redefined**: Ped and vehicle stops, searches, evidence and backup. Modern replacement for StopThePed and Ultimate Backup
-- **PR Interactive Evidence**: Interactive evidence addon for Policing Redefined
-- **Pullover Plus - Extends LSPDFR's traffic stop system**: Extends LSPDFR's traffic stops with on-foot vehicle stops and smart repositioning of the stopped car.
-- **Real Response Callouts - Standard Edition**: 20 custom police callouts with randomized outcomes and custom business locations.
-- **Real Response Callouts - Standard Edition**: 20 custom police callouts with randomized outcomes and custom business locations.
-- **Redux**: A complete graphical and atmospheric overhaul mod for Grand Theft Auto V.
-- **Reshade Ultra Presets**: A high-settings preset made for NaturalVision Evolved and QuantV.
-- **ResistPlus**: Brings unpredictable, realistic suspect behavior to your arrests.
-- **Response Backup**: Prompts you to request backup while heading to a callout, so units go to the scene with you.
-- **Roleplay+ Animation Menu**: Menu with 60+ animations you can keybind
-- **Shared Libraries**: Shared libraries the translated paid mods need, copied beside GTA5.exe automatically with any paid mod.
-- **SuperCallouts**: A large callout pack
-- **Suspect Sense**: Makes suspect searches less frustrating and more realistic.
-- **TalkativePlayer**: Expands your character's speech during patrols, with more dialogue.
-- **Tow Truck Plus**: Sends a tow truck to the scene to tow the vehicle instead of having it vanish.
-- **TrafficCalls**: 15 traffic callouts, such as traffic stops, DUI reports, pursuits and traffic accidents.
-- **UnitedCallouts**: Large callout pack: robberies, drugs, burglaries and more
-- **VisualV**: A complete graphic overhaul mod bringing reworked weather effects, lighting, and ambient improvements.
-- **Wilderness Callouts Remastered**: A callout pack for rural and wilderness areas, such as illegal hunting, animal attacks and aircraft crashes.
-- **Yobbin Callouts**: An LSPDFR callout pack with unique, realistic scenarios.
+- **تعريب اللعبة**
+- **تكبير حجم الترجمة**
+- **Callout Briefing**
+- **GameplayFixesV**
+- **GTAV.ResourceAdjuster**
+- **Realistic Police Megaphone for LSPDFR**
+- **SAPS OS - In-Car MDT, CAD & Records**
+- **Ultimate Backup**: Backup, EMS, fire and tow
+- **Uninstaller vegetation reflection (Cayo Perico).oiv**: An uninstaller tool for vegetation reflection modifications in the Cayo Perico area.
+- **Uninstaller vegetation reflection (San Andreas).oiv**: An uninstaller tool for vegetation reflection modifications in the San Andreas map.
+- **Vegetation reflection (Cayo Perico) v2.3.oiv**: An enhanced modification for vegetation reflections and graphics on Cayo Perico island.
+- **Vegetation reflection (San Andreas) v2.3.oiv**: A modification to improve vegetation and environmental reflection quality in San Andreas.
+- **Zeep’s A.G.S. Gauge**
 
 **New**
 
-- We added 50 new mods
-- DLSS 5 for RTX 40 and 50 cards, and DLSS for RTX 20 and 30 cards, for higher FPS and a smoother image
-- Graphics section: VisualV, Awesomekills Graphics and ReShade presets including Huncho, Aces Photorealistic, Life Like, Photorealistic, Optimized and Reshade Ultra
-- ReShade installs with the presets, and the app puts the preset and shader files in place
-- Gunsmith: a weapon bench at every police station to fit attachments on your gun
+- Official launch of the Arabic Code 3 Premium version.
+- Addition of new mods along with improvements to existing ones.
+
+**Improvements**
+
+- Ability to select laptop and tablet frame designs in the pdComp Modern UI Pack from ready-made images.
+- Optional mod additions now appear as activation buttons within the card, such as the bodycam motion in SAPS OS.
+- Splitting the game localization into two separate cards for the translation and enlarged subtitles.
 
 **Fixes**
 
-- The OIV install window no longer opens after every install once the file is installed
-- The install log message now shows in Arabic instead of a code
+- Fixed an issue where ExternalPoliceComputer files were not being installed.
+- Fixed phantom buttons appearing in the button editor and incorrect alerts in the button tester.
 
 <!-- LATEST_EN:END -->
 
