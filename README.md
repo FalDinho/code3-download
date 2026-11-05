@@ -54,43 +54,28 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.14
+### آخر تحديث: v1.0.15
 
-**إطلاق التعريب الرسمي وإضافة SAPS OS وUltimate Backup**
+**تحديث Code 3 v1.0.15: تعريب وخرائط واقعية**
 
-يجلب هذا التحديث تعريب لعبة GTA V رسميًا مع إضافات كبرى مثل SAPS OS وUltimate Backup وتحسينات واجهة المستخدم.
+يجلب هذا التحديث دعم اللغة العربية داخل اللعبة ومجموعة من خرائط الأقمار الصناعية عالية الدقة لطور القصة.
 
 **مودات جديدة**
 
-- **تعريب اللعبة**
-- **تكبير حجم الترجمة**
-- **Callout Briefing**
-- **GameplayFixesV**
-- **GTAV.ResourceAdjuster**
-- **Realistic Police Megaphone for LSPDFR**
-- **SAPS OS - In-Car MDT, CAD & Records**
-- **Ultimate Backup**: طلب الدعم والإسعاف والإطفاء والسحب
-- **Uninstaller vegetation reflection (Cayo Perico).oiv**: أداة لإلغاء تثبيت تعديلات انعكاسات النباتات الخاصة بمنطقة كايو بيريكو.
-- **Uninstaller vegetation reflection (San Andreas).oiv**: أداة لإلغاء تثبيت تعديلات انعكاسات النباتات الخاصة بخريطة سان أندرياس.
-- **Vegetation reflection (Cayo Perico) v2.3.oiv**: تعديل محسّن لانعكاسات النباتات والرسومات في جزيرة كايو بيريكو.
-- **Vegetation reflection (San Andreas) v2.3.oiv**: تعديل لتحسين جودة انعكاسات النباتات والبيئة في خريطة سان أندرياس.
-- **Zeep’s A.G.S. Gauge**
+- **Arabic Language Support for GTA V.**: هذا التعديل يتيح إمكانية كتابة وعرض النص العربي داخل لعبة GTA V للقصة.
+- **JM Callouts Remastered Texture Installer**: حزمة تثبيت عبر برنامج OpenIV لتثبيت نصوص وقواميس مود JM Callouts Remastered في لعبة GTA V.
+- **Satellite Map - Radar + Pause Menu**: يستبدل الخريطة الافتراضية في لعبة GTA V بصور حقيقية عالية الدقة مأخوذة من الأقمار الصناعية.
+- **Satellite Map - Radar + Pause Menu — Uninstall**
+- **Satellite Map - Radar Minimap Only**: تعديل يستبدل خريطة الرادار المصغرة التقليدية بخريطة واقعية تعتمد على صور الأقمار الصناعية.
+- **Satellite Map - Radar Minimap Only — Uninstall**
 
 **جديد**
 
-- الإطلاق الرسمي لنسخة Code 3 Premium العربية.
-- إضافة مودات جديدة مع تحسينات على المودات الحالية.
+- إضافة مودات جديدة.
 
 **تحسينات**
 
-- إمكانية اختيار تصميم إطار اللابتوب والتابلت في حزمة pdComp Modern UI Pack من صور جاهزة.
-- ظهور الإضافات الاختيارية للمودات كأزرار تفعيل داخل البطاقة، مثل حركة البودكام في SAPS OS.
-- تقسيم تعريب اللعبة إلى بطاقتين مستقلتين للتعريب وتكبير الترجمة.
-
-**إصلاحات**
-
-- إصلاح مشكلة عدم تثبيت ملفات ExternalPoliceComputer.
-- إصلاح ظهور أزرار وهمية في محرر الأزرار وتنبيهات خاطئة في فاحص الأزرار.
+- إجراء تحسينات في البرنامج.
 
 </div>
 
@@ -158,43 +143,28 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.14
+### Latest update: v1.0.15
 
-**Official Arabic Localization, SAPS OS, and Ultimate Backup Launch**
+**Code 3 v1.0.15: Arabic Support & Satellite Maps**
 
-This update officially brings GTA V Arabic localization along with major additions like SAPS OS, Ultimate Backup, and user interface improvements.
+This update introduces in-game Arabic text support and a collection of high-resolution satellite maps for story mode.
 
 **New mods**
 
-- **تعريب اللعبة**
-- **تكبير حجم الترجمة**
-- **Callout Briefing**
-- **GameplayFixesV**
-- **GTAV.ResourceAdjuster**
-- **Realistic Police Megaphone for LSPDFR**
-- **SAPS OS - In-Car MDT, CAD & Records**
-- **Ultimate Backup**: Backup, EMS, fire and tow
-- **Uninstaller vegetation reflection (Cayo Perico).oiv**: An uninstaller tool for vegetation reflection modifications in the Cayo Perico area.
-- **Uninstaller vegetation reflection (San Andreas).oiv**: An uninstaller tool for vegetation reflection modifications in the San Andreas map.
-- **Vegetation reflection (Cayo Perico) v2.3.oiv**: An enhanced modification for vegetation reflections and graphics on Cayo Perico island.
-- **Vegetation reflection (San Andreas) v2.3.oiv**: A modification to improve vegetation and environmental reflection quality in San Andreas.
-- **Zeep’s A.G.S. Gauge**
+- **Arabic Language Support for GTA V.**: This mod enables typing and displaying Arabic text inside GTA V story mode.
+- **JM Callouts Remastered Texture Installer**: An OpenIV package installer for textures related to the JM Callouts Remastered mod in GTA V.
+- **Satellite Map - Radar + Pause Menu**: Replaces the default GTA V map with high-resolution satellite imagery for both the radar and pause menu.
+- **Satellite Map - Radar + Pause Menu — Uninstall**
+- **Satellite Map - Radar Minimap Only**: A modification that replaces the standard minimap with a realistic satellite imagery map.
+- **Satellite Map - Radar Minimap Only — Uninstall**
 
 **New**
 
-- Official launch of the Arabic Code 3 Premium version.
-- Addition of new mods along with improvements to existing ones.
+- Added new mods.
 
 **Improvements**
 
-- Ability to select laptop and tablet frame designs in the pdComp Modern UI Pack from ready-made images.
-- Optional mod additions now appear as activation buttons within the card, such as the bodycam motion in SAPS OS.
-- Splitting the game localization into two separate cards for the translation and enlarged subtitles.
-
-**Fixes**
-
-- Fixed an issue where ExternalPoliceComputer files were not being installed.
-- Fixed phantom buttons appearing in the button editor and incorrect alerts in the button tester.
+- Performed application improvements.
 
 <!-- LATEST_EN:END -->
 
